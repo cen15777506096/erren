@@ -2,3 +2,5 @@
 zthzth
 111111111
 babab
+
+int a = 10;
